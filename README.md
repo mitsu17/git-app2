@@ -1,5 +1,7 @@
 # README
 
+###Git Hubの使用方法、動作確認に利用
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
